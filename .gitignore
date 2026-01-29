@@ -1,6 +1,17 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
-data/embeddings/*.npy
+
+# Logs
 logs/*.log
-.env
+
+# Data (biometric & runtime)
+data/embeddings/*.npy
+data/attendance.csv
+
+# OS files
+.DS_Store
+Thumbs.db
