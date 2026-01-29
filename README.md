@@ -2,6 +2,8 @@ Face Attendance System with Anti-Spoofing
 
 A face attendance system that performs live face recognition with challenge–response anti-spoofing, incremental user registration, threshold-based matching, and audit-ready logging, ensuring secure and reliable attendance marking.
 
+Live demo :- https://drive.google.com/file/d/15F46LkN4AJ_jWtkZz1gfhxJiZXKZk-bQ/view?usp=sharing
+
 📌 Project Overview
 
 This project implements an end-to-end face attendance pipeline that:
@@ -24,7 +26,7 @@ Secure
 
 Reproducible
 
-Interview-ready
+
 
 🔁 High-Level Workflow
 User Registration
